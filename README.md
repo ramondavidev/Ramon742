@@ -36,6 +36,7 @@
 <img align="left" alt="Paypal" width="26px" src="https://img.icons8.com/color/48/000000/paypal.png"/>
 <img align="left" alt="Stripe" width="26px" src="https://img.icons8.com/fluent/48/000000/stripe.png"/>
 <img align="left" alt="Stripe" width="26px" src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img align="left" alt="Stripe" width="26px" src="https://j2inet.files.wordpress.com/2018/12/siderealLarge.png"/>
 
 <br />
 <br />
