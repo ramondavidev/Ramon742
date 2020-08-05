@@ -2,7 +2,7 @@
 
 ## I'm a Web Developer Full Stack using MERN and a learner!
 - 🔭 I’m currently working as freelancer [see portfolio][website]!
-- 🌱 I’m currently learning by doing new courses and projects
+- 🌱 Always improving by doing new courses and projects
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games and do work outs
