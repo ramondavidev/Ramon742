@@ -38,6 +38,7 @@
 <img align="left" alt="Stripe" width="26px" src="https://img.icons8.com/color/48/000000/heroku.png"/>
 
 <br />
+<br />
 
 ---
 
