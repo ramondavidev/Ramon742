@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] (currently building a portfolio)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
@@ -44,5 +44,5 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ramon742&show_icons=true&hide_border=true" />
 
-[website]: https://ramondavi.com
-[linkedin]: https://www.linkedin.com/in/ramon-davi-13398a177/
+[website]: https://www.ramondavi.dev/
+[linkedin]: https://www.linkedin.com/in/ramondavidev/
