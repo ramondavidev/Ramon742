@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as freelancer - [see portfolio][website]
 - 🌱 Always improving by doing new courses and projects, I like to keep updated.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games and do work outs
 
 ### Connect with me:
