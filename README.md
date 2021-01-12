@@ -1,6 +1,6 @@
 ### ### Hi there, I'm Ramon 👋
 
-## I'm a Web Developer Full Stack using MERN and a learner!
+## I'm a Web Developer Full Stack and a learner!
 - 🔭 I’m currently working as freelancer - [see portfolio][website]
 - 🌱 Always improving by doing new courses and projects, I like to keep updated.
 - 👯 I’m looking to collaborate with other content creators
