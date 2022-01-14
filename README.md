@@ -5,7 +5,7 @@
 - 🌱 Always improving by doing new courses and projects, I like to keep updated.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love playing games and do work out
+- ⚡ Fun fact: I love playing games and piano
 
 ### Connect with me:
 
