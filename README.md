@@ -1,10 +1,9 @@
 ### ### Hi there, I'm Ramon 👋
 
 ## I'm a Web Developer Full Stack and a learner!
-- 🔭 I’m currently working as freelancer - [see portfolio][website]
-- 🌱 Always improving by doing new courses and projects, I like to keep updated.
+- 🌱 Always improving by doing new courses and projects.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing games and piano
 
 ### Connect with me:
