@@ -43,5 +43,5 @@
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ramondavidev&show_icons=true&hide_border=true" />
 
-[website]: https://www.ramondavi.dev/
+[website]: https://ramondavi.com/
 [linkedin]: https://www.linkedin.com/in/ramondavidev/
