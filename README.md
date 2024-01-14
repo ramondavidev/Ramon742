@@ -3,7 +3,7 @@
 ## I'm a Web Developer Full Stack and a learner!
 - 🌱 Always improving by doing new courses and projects.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love playing games and piano
 
 ### Connect with me:
